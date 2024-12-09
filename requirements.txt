@@ -1,0 +1,4 @@
+pandas
+ipython-sql
+sqlalchemy
+prettytable==3.11.0
