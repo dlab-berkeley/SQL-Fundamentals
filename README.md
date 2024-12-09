@@ -31,10 +31,10 @@ This workshop does **not** cover the following:
 
 SQL Fundamentals is a 2 hour workshop, and is delivered in a lecture-style coding walkthrough interrupted by challenge problems and a break. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
 
-1. **Part 1: SQLite Installation**
-2. **Part 2: Simple SQLite Queries**
-3. **Part 3: Northwind Database Overview**
-4. **Part 4: Northwind SQLite Exercises**
+1. **[Part 1: SQLite Installation](SQLite-Setup.ipynb)**
+2. **[Part 2: Simple SQLite Queries](Simple-SQLite-Lesson.ipynb)**
+3. **[Part 3: Northwind Database Overview](SQL-Northwind-Lesson-Overview.ipynb)**
+4. **[Part 4: Northwind SQLite Exercises](SQL-Northwind-Lesson-Exercises.ipynb)**
 
 ## Installation Instructions
 
