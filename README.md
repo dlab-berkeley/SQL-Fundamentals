@@ -73,3 +73,4 @@ Here are other Python workshops offered by the D-Lab:
 
 # Contributors
 * Aaron Culich
+* Tom van Nuenen
